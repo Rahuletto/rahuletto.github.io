@@ -1,1 +1,4 @@
-
+html{
+  scroll-behavior: smooth;
+  background: #1A1A1A;
+}
