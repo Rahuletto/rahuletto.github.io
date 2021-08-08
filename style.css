@@ -5,3 +5,9 @@ html{
   background: #1A1A1A;
   font-family: 'Poppins';
 }
+h1{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
