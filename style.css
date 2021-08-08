@@ -23,6 +23,12 @@ h1{
   position: fixed;
   top: 50%;
   left: 50%;
+  font-weight:500; 
+  font-size: 6rem; 
+  justify-content: center; 
+  display:inline;
+    height:400px;
+    vertical-align: middle;
   transform: translate(-50%, -50%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
